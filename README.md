@@ -53,6 +53,7 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
+* [The Walking Dead, Vol. 01: Days Gone Bye](https://www.goodreads.com/book/show/138398.The_Walking_Dead_Vol_01) by Robert Kirkman, Tony Moore (Illustrator)
 
 ## License
 
