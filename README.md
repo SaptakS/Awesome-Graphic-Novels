@@ -53,6 +53,7 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
+* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator) 
 
 ## License
 
