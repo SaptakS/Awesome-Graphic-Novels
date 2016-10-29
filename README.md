@@ -14,6 +14,7 @@ Books
 -----
 
 ##Autobiographical
+* [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
 
