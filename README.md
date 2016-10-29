@@ -34,6 +34,7 @@ Table of Contents
 * [Fallen Words](https://www.goodreads.com/book/show/13034896-fallen-words) by Yoshihiro Tatsumi
 * [The Chairs Hiatus](https://www.goodreads.com/book/show/14408138-the-chairs-hiatus) by Matthew Bogart
 * [It's a Good Life, If You Don't Weaken: A Picture Novella](https://www.goodreads.com/book/show/86142.It_s_a_Good_Life_If_You_Don_t_Weaken) by Seth
+* [Lone Wolf and Cub](https://www.goodreads.com/series/49917-lone-wolf-and-cub) is a manga created by writer Kazuo Koike and artist Goseki Kojima.
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
