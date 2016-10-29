@@ -34,6 +34,7 @@ Table of Contents
 * [Saga](https://www.goodreads.com/book/show/15704307-saga-volume-1) by Brian K. Vaughan (Writer), Fiona Staples (Artist)
 * [Bone](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
+* [The Rabbi's Cat](https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat) by Joann Sfar
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
