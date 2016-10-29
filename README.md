@@ -12,6 +12,13 @@ Table of Contents
 
 Books
 -----
+##Manga
+* [Dragon Ball z](http://www.luckyred.it/film/dragon%20ball/dragonball_pressbook.pdf) by Akira Toriyama
+* [Black Buttler](http://pdfmanga.weebly.com/kuroshitsuji.html) by Yana Toboso
+* [Sword Art Online series](https://www.google.co.in/search?client=ubuntu&hs=vF4&channel=fs&q=Sword+Art+Online+2:+Aincrad&stick=H4sIAAAAAAAAAONgFuLSz9U3sCwzNDQ2VwKz81LSTAyStOSyk630k_Lzs_VzMktSixKLKuOLU4syU4utQILFjxgjuQVe_rgnLBUwac3Ja4xeXAQ0CGlwsbnmlWSWVArJcfFJIVmrwSDFw4XE5wEA-sC45pYAAAA&npsic=0&sa=X&ved=0ahUKEwiFkcDSqP_PAhVIu48KHeVUCjwQ-BYIHg&biw=1301&bih=673) by Reki Kawahara
+* [Other Mangas like Fairy tale,One Piece etc.](https://mangastream.com/)
+
+
 
 ##Autobiographical
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
