@@ -9,6 +9,7 @@ Table of Contents
 * [Historical](#historical)
 * [Superhero](#superhero)
 * [Thriller](#thriller)
+* [Manga](#manga)
 
 Books
 -----
@@ -45,6 +46,11 @@ Books
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
+
+##Manga
+* [One Piece](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01) by Eiichiro Oda
+* [Dragon Ball Super](https://www.goodreads.com/book/show/31140385-dragon-ball-super-vol-1?)  by Akira Toriyama (Creator), Toyotarou (Illustrations) 
+* [Doraemon](https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01)  by Fujiko F. Fujio 
 
 
 ## License
