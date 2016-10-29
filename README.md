@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -16,6 +16,7 @@ Table of Contents
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
+* [Fun Home: A Family Tragicomic](https://www.goodreads.com/book/show/26135825-fun-home) by Alison Bechdel
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
@@ -44,7 +45,7 @@ Table of Contents
 * [Batman: The Dark Knight Returns](https://www.goodreads.com/book/show/59960.Batman) by Frank Miller, Klaus Janson (Illustrator), Lynn Varley (Illustrator)
 * [Batman: The Killing Joke](https://www.goodreads.com/book/show/96358.Batman) by Alan Moore (Goodreads Author), Brian Bolland (Illustrator)
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
-* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
+* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
 
@@ -53,7 +54,7 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
-* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator) 
+* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator)
 
 ## License
 
