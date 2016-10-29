@@ -11,6 +11,7 @@ Table of Contents
 * [Historical](#historical)
 * [Superhero](#superhero)
 * [Thriller](#thriller)
+* [Crime](#crime)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -53,6 +54,9 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
+
+##Crime
+* [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
 
 ## License
 
