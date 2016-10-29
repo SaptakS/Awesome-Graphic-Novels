@@ -46,6 +46,7 @@ Table of Contents
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
+* [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) y Geoff Johns
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
