@@ -57,6 +57,7 @@ Table of Contents
 
 ##Crime
 * [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
+* [Criminal, Vol.1](https://www.goodreads.com/book/show/106033.Criminal_Vol_1) by Ed Brubaker,Sean Phillips
 
 ## License
 
