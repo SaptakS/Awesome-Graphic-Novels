@@ -45,7 +45,6 @@ Books
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
-* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (Illustrator)
 
 ##Manga
 
