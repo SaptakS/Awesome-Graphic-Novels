@@ -50,7 +50,7 @@ Table of Contents
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
-* [Battle Royale](https://www.goodreads.com/book/show/57893.Battle_Royale_Vol_01) by Koushun Takami, Masayuki Taguchi, Keith Giffen (English Adaptation), Tomo Iwo (Illustrator)
+* [Battle Royale](https://www.goodreads.com/book/show/57893.Battle_Royale_Vol_01) by Koushun Takami, Masayuki Taguchi, Keith Giffen (English Adaptation), Tomo Iwo (Translator)
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
