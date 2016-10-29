@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -28,6 +28,7 @@ Table of Contents
 * [The Arrival](https://www.goodreads.com/book/show/920607.The_Arrival) by Shaun Tan
 * [Akira](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by Katsuhiro Otomo
 * [Fullmetal Alchemist](https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1) by Hiromu Arakawa
+* [Battle Angel Alita](https://www.goodreads.com/book/show/844422.Battle_Angel_Alita_Volume_01) by Yukito Kishiro
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
@@ -44,7 +45,7 @@ Table of Contents
 * [Batman: The Dark Knight Returns](https://www.goodreads.com/book/show/59960.Batman) by Frank Miller, Klaus Janson (Illustrator), Lynn Varley (Illustrator)
 * [Batman: The Killing Joke](https://www.goodreads.com/book/show/96358.Batman) by Alan Moore (Goodreads Author), Brian Bolland (Illustrator)
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
-* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
+* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
 
