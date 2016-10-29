@@ -53,7 +53,8 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
-* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator) 
+* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator)
+* [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator) 
 
 ## License
 
