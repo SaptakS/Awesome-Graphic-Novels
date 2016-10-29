@@ -35,7 +35,7 @@ Table of Contents
 * [Saga](https://www.goodreads.com/book/show/15704307-saga-volume-1) by Brian K. Vaughan (Writer), Fiona Staples (Artist)
 * [Bone](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
-* [Fables, Vol. 1: Legends in Exile](https://www.goodreads.com/book/show/21326.Fables_Volume_1) by Bill Willingham (Writer), Lan Medina (Artist), Steve Leialoha (Artist), Craig Hamilton (Artist), James Jean (Cover Artist)
+
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
