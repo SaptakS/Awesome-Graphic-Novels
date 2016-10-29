@@ -9,6 +9,7 @@ Table of Contents
 * [Historical](#historical)
 * [Superhero](#superhero)
 * [Thriller](#thriller)
+* [Horror](#horror)
 
 Books
 -----
@@ -45,6 +46,9 @@ Books
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
+
+##Horror
+* [Batman: Arkham Asylum - A Serious House on Serious Earth](https://www.goodreads.com/book/show/22374.Batman) by Grant Morrison, Dave McKean (Illustrator)
 
 
 ## License
