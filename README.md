@@ -34,6 +34,7 @@ Books
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
+* [A.D.:New Orleans After the Deluge](http://www.goodreads.com/book/show/6398040-a-d) by Josh Neufeld
 
 ##Superhero
 * [Watchmen](https://www.goodreads.com/book/show/472331.Watchmen) by Alan Moore, Dave Gibbons (Illustrator/Letterer), John Higgins (Colorist)
