@@ -52,8 +52,10 @@ Table of Contents
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
 
 ##Horror
-* [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
-* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator) 
+* [Attack on Titan](http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
+* [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator)
+* [Stephen King's N.](https://www.goodreads.com/book/show/7006562-stephen-king-s-n) by Marc Guggenheim (Adaptor), Alex Maleev (Illustrator)
+* [Black Hole](https://www.goodreads.com/book/show/38333.Black_Hole) by Charles Burns 
 
 ## License
 
