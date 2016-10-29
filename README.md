@@ -16,6 +16,7 @@ Books
 ##Autobiographical
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
+* [The Story of an accidental Revolutionary](http://monisha.gdy.club/Just%20for%20Fun%20(LINUX%20TORVALDS)/Just%20for%20Fun:%20The%20Story%20of%20an%20Accidental%20Revolutionary.pdf) by Linus Torvalds
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
@@ -25,6 +26,7 @@ Books
 * [The Arrival](https://www.goodreads.com/book/show/920607.The_Arrival) by Shaun Tan
 * [Akira](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by Katsuhiro Otomo
 * [Fullmetal Alchemist](https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1) by Hiromu Arakawa
+* [The Hound of the Baskervilles](http://www.planetpublish.com/wp-content/uploads/2011/11/The_Hound_of_the_Baskervilles_T.pdf) by Arthur Conan Doyle 
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
