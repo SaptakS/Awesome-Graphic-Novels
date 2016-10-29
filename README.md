@@ -4,6 +4,7 @@ Table of Contents
 -----------------
 
 * [Autobiographical](#autobiographical)
+* [Comedy](#comedy)
 * [Fiction](#fiction)
 * [Fantasy](#fantasy)
 * [Historical](#historical)
@@ -16,6 +17,9 @@ Books
 ##Autobiographical
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
+
+##Comedy
+* [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
