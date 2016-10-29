@@ -29,7 +29,6 @@ Table of Contents
 * [The Arrival](https://www.goodreads.com/book/show/920607.The_Arrival) by Shaun Tan
 * [Akira](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by Katsuhiro Otomo
 * [Fullmetal Alchemist](https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1) by Hiromu Arakawa
-* [Rurouni Kenshin](https://www.goodreads.com/book/show/1862692.Rurouni_Kenshin_Vol_1) by Nobuhiro Watsuki
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
