@@ -11,6 +11,7 @@ Table of Contents
 * [Historical](#historical)
 * [Superhero](#superhero)
 * [Thriller](#thriller)
+* [Horror](#Horror)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -52,6 +53,7 @@ Table of Contents
 
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
+* [Batman: Arkham Asylum - A Serious House on Serious Earth](https://www.goodreads.com/book/show/22374.Batman) by Grant Morrison, Dave McKean (Illustrator)
 
 ## License
 
