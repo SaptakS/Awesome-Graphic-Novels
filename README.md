@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -17,7 +17,7 @@ Table of Contents
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
-* [Can't We Talk about Something More Pleasant?](http://www.goodreads.com/book/show/18594409-can-t-we-talk-about-something-more-pleasant) by Roz Chast 
+* [Can't We Talk about Something More Pleasant?](http://www.goodreads.com/book/show/18594409-can-t-we-talk-about-something-more-pleasant) by Roz Chast
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
@@ -55,7 +55,7 @@ Table of Contents
 * [Batman: The Dark Knight Returns](https://www.goodreads.com/book/show/59960.Batman) by Frank Miller, Klaus Janson (Illustrator), Lynn Varley (Illustrator)
 * [Batman: The Killing Joke](https://www.goodreads.com/book/show/96358.Batman) by Alan Moore (Goodreads Author), Brian Bolland (Illustrator)
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
-* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
+* [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
 * [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
@@ -65,10 +65,14 @@ Table of Contents
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
 * [Battle Royale](https://www.goodreads.com/book/show/57893.Battle_Royale_Vol_01) by Koushun Takami, Masayuki Taguchi, Keith Giffen (English Adaptation), Tomo Iwo (Translator)
 
+
 ##Horror
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
 * [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator)
-* [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator) 
+* [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator)
+* [Stephen King's N.](https://www.goodreads.com/book/show/7006562-stephen-king-s-n) by Marc Guggenheim (Adaptor), Alex Maleev (Illustrator)
+* [Black Hole](https://www.goodreads.com/book/show/38333.Black_Hole) by Charles Burns
+
 
 ##Crime
 * [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
