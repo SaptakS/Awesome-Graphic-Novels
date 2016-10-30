@@ -71,6 +71,7 @@ Table of Contents
 * [Spider-Man: Kraven's Last Hunt](https://www.goodreads.com/book/show/672235.Spider_Man) by  J.M. DeMatteis and Mike Zeck
 * [X-Men: The Dark Phoenix Saga](https://www.goodreads.com/book/show/103111.X_Men) by Chris Claremont, John Byrne (Illustrator)
 * [Deadpool vs. The Marvel Universe](https://www.goodreads.com/book/show/22066987-deadpool-vs-the-marvel-universe) by Fabian Nicieza, Reilly Brown (Illustrator) 
+* [Wolverine: Old Man Logan](https://www.goodreads.com/book/show/6238080-wolverine) by Mark Millar
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
