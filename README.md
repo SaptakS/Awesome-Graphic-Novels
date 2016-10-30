@@ -11,6 +11,7 @@ Table of Contents
 * [Historical](#historical)
 * [Superhero](#superhero)
 * [Thriller](#thriller)
+* [Crime](#crime)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -66,6 +67,10 @@ Table of Contents
 * [Attack on Titan] (http://www.goodreads.com/book/show/13154150-attack-on-titan-volume-01) by Hajime Isayama, Sheldon Drzka (Translator)
 * [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore, Eddie Campbell (illustrator), Pete Mullins (illustrator)
 * [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator) 
+
+##Crime
+* [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
+* [Criminal, Vol.1](https://www.goodreads.com/book/show/106033.Criminal_Vol_1) by Ed Brubaker,Sean Phillips
 
 ## License
 
