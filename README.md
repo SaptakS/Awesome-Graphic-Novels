@@ -34,6 +34,7 @@ Table of Contents
 * [Fallen Words](https://www.goodreads.com/book/show/13034896-fallen-words) by Yoshihiro Tatsumi
 * [The Chairs Hiatus](https://www.goodreads.com/book/show/14408138-the-chairs-hiatus) by Matthew Bogart
 * [It's a Good Life, If You Don't Weaken: A Picture Novella](https://www.goodreads.com/book/show/86142.It_s_a_Good_Life_If_You_Don_t_Weaken) by Seth
+* [Battle Angel Alita](https://www.goodreads.com/book/show/844422.Battle_Angel_Alita_Volume_01) by Yukito Kishiro
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
@@ -58,6 +59,7 @@ Table of Contents
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
+* [Hellboy](https://www.goodreads.com/book/show/102458.Hellboy_Vol_1) by Mike Mignola, John Byrne
 * [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
