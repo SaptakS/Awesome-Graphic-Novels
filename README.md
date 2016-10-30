@@ -16,6 +16,7 @@ Books
 ##Autobiographical
 * [The Complete Persepolis](https://www.goodreads.com/book/show/991197.The_Complete_Persepolis) by Marjane Satrapi
 * [Stitches](https://www.goodreads.com/book/show/6407014-stitches) by David Small
+* [Can't We Talk about Something More Pleasant?](http://www.goodreads.com/book/show/18594409-can-t-we-talk-about-something-more-pleasant) by Roz Chast 
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
