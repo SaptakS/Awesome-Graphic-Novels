@@ -54,6 +54,7 @@ Table of Contents
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
+* [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
