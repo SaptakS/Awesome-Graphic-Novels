@@ -41,6 +41,7 @@ Table of Contents
 * [Bone](https://www.goodreads.com/book/show/92143.Bone) by Jeff Smith
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
 * [Cardcapture Sakura](https://www.goodreads.com/book/show/229145.Cardcaptor_Sakura_Vol_1) by CLAMP
+* [The Rabbi's Cat](https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat) by Joann Sfar
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
