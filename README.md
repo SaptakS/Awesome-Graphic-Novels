@@ -28,6 +28,10 @@ Table of Contents
 * [The Arrival](https://www.goodreads.com/book/show/920607.The_Arrival) by Shaun Tan
 * [Akira](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by Katsuhiro Otomo
 * [Fullmetal Alchemist](https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1) by Hiromu Arakawa
+* [The Nao of Brown](https://www.goodreads.com/book/show/13594590-the-nao-of-brown) by Glyn Dillon
+* [Fallen Words](https://www.goodreads.com/book/show/13034896-fallen-words) by Yoshihiro Tatsumi
+* [The Chairs Hiatus](https://www.goodreads.com/book/show/14408138-the-chairs-hiatus) by Matthew Bogart
+* [It's a Good Life, If You Don't Weaken: A Picture Novella](https://www.goodreads.com/book/show/86142.It_s_a_Good_Life_If_You_Don_t_Weaken) by Seth
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
@@ -38,6 +42,9 @@ Table of Contents
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
 * [A.D.:New Orleans After the Deluge](http://www.goodreads.com/book/show/6398040-a-d) by Josh Neufeld
+* [Logicomix: An epic search for truth](https://www.goodreads.com/book/show/6493321-logicomix) by Apostolos Doxiadis
+* [The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer](https://www.goodreads.com/book/show/22822839-the-thrilling-adventures-of-lovelace-and-babbage) by Sydney Padua
+* [Pyongyang: A Journey in North Korea](https://www.goodreads.com/book/show/80834.Pyongyang) by Guy Delisle
 
 ##Superhero
 * [Watchmen](https://www.goodreads.com/book/show/472331.Watchmen) by Alan Moore, Dave Gibbons (Illustrator/Letterer), John Higgins (Colorist)
