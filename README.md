@@ -83,7 +83,7 @@ Table of Contents
 
 
 ##Adventure
-*[One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
+* [One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
 
 
 ## License
