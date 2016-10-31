@@ -14,6 +14,7 @@ Table of Contents
 * [Crime](#crime)
 * [Adventure](#adventure)
 * [Horror](#horror)
+* [Sports](#sports)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -64,7 +65,6 @@ Table of Contents
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar
 * [Flashpoint](https://www.goodreads.com/book/show/11501608-flashpoint) by Geoff Johns
 * [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
-* [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
 * [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
@@ -94,6 +94,9 @@ Table of Contents
 
 ##Adventure
 * [One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
+
+##Sports
+* [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 
 
 ## License
