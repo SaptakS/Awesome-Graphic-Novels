@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+﻿Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -62,6 +62,7 @@ Table of Contents
 * [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
+* [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
