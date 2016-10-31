@@ -42,6 +42,7 @@ Table of Contents
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
 * [Cardcapture Sakura](https://www.goodreads.com/book/show/229145.Cardcaptor_Sakura_Vol_1) by CLAMP
 * [The Rabbi's Cat](https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat) by Joann Sfar
+* [The Sadhu](http://www.goodreads.com/book/show/23570464-the-sadhu) by Gotham Chopra
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
@@ -78,6 +79,7 @@ Table of Contents
 ##Crime
 * [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
 * [Criminal, Vol.1](https://www.goodreads.com/book/show/106033.Criminal_Vol_1) by Ed Brubaker,Sean Phillips
+* [Mumbai Confidential](http://www.goodreads.com/book/show/13594987-mumbai-confidential)
 
 ## License
 
