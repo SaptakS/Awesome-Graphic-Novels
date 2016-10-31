@@ -46,6 +46,8 @@ Table of Contents
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
 * [Cardcapture Sakura](https://www.goodreads.com/book/show/229145.Cardcaptor_Sakura_Vol_1) by CLAMP
 * [The Rabbi's Cat](https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat) by Joann Sfar
+* [Bleach](https://www.goodreads.com/book/show/2880.Bleach_Volume_01) by Tite Kubo
+* [Fairy Tale](https://www.goodreads.com/book/show/2454986.Fairy_Tail_Vol_01) by Hiro Mashima, William Flanagan (Translator) 
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
