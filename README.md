@@ -12,7 +12,8 @@ Table of Contents
 * [Superhero](#superhero)
 * [Thriller](#thriller)
 * [Crime](#crime)
-* [Adventure](#Adventure)
+* [Adventure](#adventure)
+* [Horror](#horror)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -78,6 +79,7 @@ Table of Contents
 * [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator)
 * [Stephen King's N.](https://www.goodreads.com/book/show/7006562-stephen-king-s-n) by Marc Guggenheim (Adaptor), Alex Maleev (Illustrator)
 * [Black Hole](https://www.goodreads.com/book/show/38333.Black_Hole) by Charles Burns
+* [Black Butler](https://www.goodreads.com/book/show/6690979-black-butler-volume-01) by Yana Toboso, Tomo Kimura (Translator) 
 
 
 ##Crime
