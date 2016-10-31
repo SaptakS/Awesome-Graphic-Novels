@@ -69,6 +69,8 @@ Table of Contents
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
 * [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
 * [Spider-Man: Kraven's Last Hunt](https://www.goodreads.com/book/show/672235.Spider_Man) by  J.M. DeMatteis and Mike Zeck
+* [X-Men: The Dark Phoenix Saga](https://www.goodreads.com/book/show/103111.X_Men) by Chris Claremont, John Byrne (Illustrator)
+* [Deadpool vs. The Marvel Universe](https://www.goodreads.com/book/show/22066987-deadpool-vs-the-marvel-universe) by Fabian Nicieza, Reilly Brown (Illustrator) 
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
