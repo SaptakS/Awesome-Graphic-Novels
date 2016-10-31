@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+﻿Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -12,6 +12,7 @@ Table of Contents
 * [Superhero](#superhero)
 * [Thriller](#thriller)
 * [Crime](#crime)
+* [Adventure](#Adventure)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -21,6 +22,7 @@ Table of Contents
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
+* [Nimona](https://www.goodreads.com/book/show/19351043-nimona) by Noelle Stevenson
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
@@ -35,6 +37,8 @@ Table of Contents
 * [The Chairs Hiatus](https://www.goodreads.com/book/show/14408138-the-chairs-hiatus) by Matthew Bogart
 * [It's a Good Life, If You Don't Weaken: A Picture Novella](https://www.goodreads.com/book/show/86142.It_s_a_Good_Life_If_You_Don_t_Weaken) by Seth
 * [Battle Angel Alita](https://www.goodreads.com/book/show/844422.Battle_Angel_Alita_Volume_01) by Yukito Kishiro
+* [Lone Wolf and Cub](https://www.goodreads.com/series/49917-lone-wolf-and-cub) is a manga created by writer Kazuo Koike and artist Goseki Kojima.
+>>>>>>> upstream/master
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
@@ -63,6 +67,7 @@ Table of Contents
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
 * [Hellboy](https://www.goodreads.com/book/show/102458.Hellboy_Vol_1) by Mike Mignola, John Byrne
+* [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
@@ -80,6 +85,11 @@ Table of Contents
 ##Crime
 * [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
 * [Criminal, Vol.1](https://www.goodreads.com/book/show/106033.Criminal_Vol_1) by Ed Brubaker,Sean Phillips
+
+
+##Adventure
+* [One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
+
 
 ## License
 
