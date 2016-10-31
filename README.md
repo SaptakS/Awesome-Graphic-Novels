@@ -81,7 +81,8 @@ Table of Contents
 * [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator)
 * [Stephen King's N.](https://www.goodreads.com/book/show/7006562-stephen-king-s-n) by Marc Guggenheim (Adaptor), Alex Maleev (Illustrator)
 * [Black Hole](https://www.goodreads.com/book/show/38333.Black_Hole) by Charles Burns
-* [Black Butler](https://www.goodreads.com/book/show/6690979-black-butler-volume-01) by Yana Toboso, Tomo Kimura (Translator) 
+* [Black Butler](https://www.goodreads.com/book/show/6690979-black-butler-volume-01) by Yana Toboso, Tomo Kimura (Translator)
+* [Preacher](https://www.goodreads.com/book/show/95431.Preacher_Volume_1) by Garth Ennis, Steve Dillon (Illustrator), Joe R. Lansdale (Introduction) 
 
 
 ##Crime
