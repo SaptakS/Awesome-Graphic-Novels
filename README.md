@@ -14,6 +14,7 @@ Table of Contents
 * [Crime](#crime)
 * [Adventure](#adventure)
 * [Horror](#horror)
+* [Romance](#romance)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -94,6 +95,9 @@ Table of Contents
 
 ##Adventure
 * [One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
+
+##Romance
+* [Chobits, Vol. 1](http://www.goodreads.com/book/show/667985.Chobits_Vol_1) by CLAMP, Shirley Kubo (Translator)
 
 
 ## License
