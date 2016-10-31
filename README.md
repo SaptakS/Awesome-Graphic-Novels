@@ -21,6 +21,7 @@ Table of Contents
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
+* [Nimona](https://www.goodreads.com/book/show/19351043-nimona) by Noelle Stevenson
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
@@ -43,6 +44,7 @@ Table of Contents
 * [Anya's Ghost](https://www.goodreads.com/book/show/9615347-anya-s-ghost) by Vera Brosgol
 * [Cardcapture Sakura](https://www.goodreads.com/book/show/229145.Cardcaptor_Sakura_Vol_1) by CLAMP
 * [The Rabbi's Cat](https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat) by Joann Sfar
+
 
 ##Historical
 * [The Complete Maus](https://www.goodreads.com/book/show/15195.The_Complete_Maus) by Art Spiegelman
