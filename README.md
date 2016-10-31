@@ -21,6 +21,7 @@ Table of Contents
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
+* [Nimona](https://www.goodreads.com/book/show/19351043-nimona) by Noelle Stevenson
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
