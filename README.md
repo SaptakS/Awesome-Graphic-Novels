@@ -77,6 +77,7 @@ Table of Contents
 * [Locke & Key](http://www.goodreads.com/book/show/3217221-locke-key-vol-1) by Joe Hill,  Gabriel Rodríguez(illustrator)
 * [Stephen King's N.](https://www.goodreads.com/book/show/7006562-stephen-king-s-n) by Marc Guggenheim (Adaptor), Alex Maleev (Illustrator)
 * [Black Hole](https://www.goodreads.com/book/show/38333.Black_Hole) by Charles Burns
+* [The Exorcist](http://www.goodreads.com/series/147225-the-exorcist) by William Peter Blatty
 
 
 ##Crime
