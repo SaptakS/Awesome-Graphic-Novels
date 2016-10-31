@@ -1,4 +1,4 @@
-Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+﻿Awesome Graphic Novels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > Curated list of awesome comics, manga and other graphic novels
 
 Table of Contents
@@ -12,6 +12,7 @@ Table of Contents
 * [Superhero](#superhero)
 * [Thriller](#thriller)
 * [Crime](#crime)
+* [Adventure](#Adventure)
 
 ##Autobiographical
 * [American Splendor: The Life and Times of Harvey Pekar](http://www.goodreads.com/book/show/43559.American_Splendor) by Harvey Pekar
@@ -21,6 +22,7 @@ Table of Contents
 
 ##Comedy
 * [Scott Pilgrim](https://www.goodreads.com/series/40623) by Bryan Lee O'Malley
+* [Nimona](https://www.goodreads.com/book/show/19351043-nimona) by Noelle Stevenson
 
 ##Fiction
 * [V for Vendetta](https://www.goodreads.com/book/show/5805.V_for_Vendetta) by Alan Moore, David Lloyd (Illustrator)
@@ -62,6 +64,7 @@ Table of Contents
 * [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
+* [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
 * [Spider-Man: Kraven's Last Hunt](https://www.goodreads.com/book/show/672235.Spider_Man) by  J.M. DeMatteis and Mike Zeck
 
 ##Thriller
@@ -80,6 +83,11 @@ Table of Contents
 ##Crime
 * [Sin City, Vol.1](https://www.goodreads.com/book/show/392297.Sin_City_Vol_1) by Frank Miller
 * [Criminal, Vol.1](https://www.goodreads.com/book/show/106033.Criminal_Vol_1) by Ed Brubaker,Sean Phillips
+
+
+##Adventure
+* [One Piece, Vol.1](https://www.goodreads.com/book/show/1237398.One_Piece_Volume_01#) by Eiichiro Oda
+
 
 ## License
 
