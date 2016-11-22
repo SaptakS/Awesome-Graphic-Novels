@@ -37,7 +37,9 @@ Table of Contents
 * [Fallen Words](https://www.goodreads.com/book/show/13034896-fallen-words) by Yoshihiro Tatsumi
 * [The Chairs Hiatus](https://www.goodreads.com/book/show/14408138-the-chairs-hiatus) by Matthew Bogart
 * [It's a Good Life, If You Don't Weaken: A Picture Novella](https://www.goodreads.com/book/show/86142.It_s_a_Good_Life_If_You_Don_t_Weaken) by Seth
+* [Battle Angel Alita](https://www.goodreads.com/book/show/844422.Battle_Angel_Alita_Volume_01) by Yukito Kishiro
 * [Lone Wolf and Cub](https://www.goodreads.com/series/49917-lone-wolf-and-cub) is a manga created by writer Kazuo Koike and artist Goseki Kojima.
+>>>>>>> upstream/master
 
 ##Fantasy
 * [The Sandman, Vol. 1: Preludes and Nocturnes](https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1) by Neil Gaiman, Sam Kieth (Illustrator), Mike Dringenberg (Illustrator), Malcolm Jones III (Illustrator), Todd Klein (Letterer), Karen Berger (Introduction/Editor)
@@ -67,6 +69,7 @@ Table of Contents
 * [Slam Dunk](https://myanimelist.net/manga/51/Slam_Dunk) by Takehiko Inoue (Story, Art)
 * [Infinite Crisis](https://www.goodreads.com/book/show/66483.Infinite_Crisis) by Geoff Johns
 * [Cyborg: Rebirth](https://www.goodreads.com/book/show/31850480-cyborg) by John Semper Jr., Guy Major (Illustrator), Ivan Nunes (Illustrator), Will Conrad (Illustrator), Sandra Hope (Illustrator), Tony Kordos (Illustrator), Paul Pelletier (Illustrator)
+* [Hellboy](https://www.goodreads.com/book/show/102458.Hellboy_Vol_1) by Mike Mignola, John Byrne
 * [Crisis on Infinite Earths](https://www.goodreads.com/book/show/194480.Crisis_on_Infinite_Earths) by Marv Wolfman and George Pérez.
 * [Spider-Man: Kraven's Last Hunt](https://www.goodreads.com/book/show/672235.Spider_Man) by  J.M. DeMatteis and Mike Zeck
 * [X-Men: The Dark Phoenix Saga](https://www.goodreads.com/book/show/103111.X_Men) by Chris Claremont, John Byrne (Illustrator)
