@@ -72,6 +72,7 @@ Table of Contents
 * [X-Men: The Dark Phoenix Saga](https://www.goodreads.com/book/show/103111.X_Men) by Chris Claremont, John Byrne (Illustrator)
 * [Deadpool vs. The Marvel Universe](https://www.goodreads.com/book/show/22066987-deadpool-vs-the-marvel-universe) by Fabian Nicieza, Reilly Brown (Illustrator) 
 * [Wolverine: Old Man Logan](https://www.goodreads.com/book/show/6238080-wolverine) by Mark Millar
+* [The Incredible Hulk: Planet Hulk](https://www.goodreads.com/book/show/630621.The_Incredible_Hulk) by by Greg Park, Carlo Pagulayan and Aaron Lopresti
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
